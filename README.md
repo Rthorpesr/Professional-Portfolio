@@ -8,16 +8,27 @@ After days struggling through this I am much wiser now than ever. I checked off 
 
 This website now has:
 1.) a Polished Professional look
+
 2.) I show at least 2 - 3 projects and you can link to the Github Repo and or Website to interactive with the project.
-3.) I updated my LinkedIn page to include the Projects 
+
+3.) I updated my LinkedIn page to include the Projects.
+
 4.) I updated the Read me files for each of the chosen projectsand descripted the problem, how I solved it, and some 
-    information about my technical approach
-5.) There is a link on the website that when clicked, takes you to a PDF of my Resume
-6.) The site is Employer Ready and Employer Competitive
+    information about my technical approach.
+    
+5.) There is a link on the website that when clicked, takes you to a PDF of my Resume.
+
+6.) The site is Employer Ready and Employer Competitive.
+
 7.) The site is Tablet, and mobile responsive. ( it looks great on my cellphone). My family and friend love it!!
+
 8.) The website is one page only now.
+
 9.) I pinned three (3) projects in Github.
+
 10.) My contact information is on the page.
+
 11.) Readable with good sized fonts and colors that will not cause eye strains.  
+
 
 
